@@ -160,7 +160,7 @@ table {
   font-family: "Times New Roman", Times, serif;
 }
 #brown {
-  background-color: #deb887;
+  background-color: #ddb9a3;
   line-height: 35px;
   font-size: 15px;
   color: white;
@@ -201,4 +201,7 @@ table {
 }
 .small-par {
   text-align: center;
+}
+#footer-boxes {
+  background-color: #f9e7dc;
 }
